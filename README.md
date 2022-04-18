@@ -84,7 +84,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★☆☆ | [algolist (Russian)](http://algolist.manual.ru/) | A Russian website devoted to algorithms of all sorts. Some topics listed on this website seems pretty interesting. |
 | ★★☆ | [演算法筆記 (Algorithm Notes) (Chinese)](http://web.ntnu.edu.tw/~algo/) | One of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts on researching algorithms. |
 | ★★☆ | [国家集训队论文 1999-2015 (Papers from Chinese IOI training camps) (Chinese)](http://download.csdn.net/album/detail/657/1/1) | Papers from the Chinese IOI training camps. It's interesting for the fact that one can tell different regions emphasize different things. |
-| ★★★ | [Mini-Editorials](https://github.com/mostafa-saad/MyCompetitiveProgramming), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) trainees | Solutions with mini-editorials for many problems, including UVA/SPOJ/IOI/Olympiad problems |
+| ★★★ | <code>&nbsp;&nbsp;&nbsp;276</code> ![](https://img.shields.io/github/last-commit/mostafa-saad/MyCompetitiveProgramming) [Mini-Editorials](https://github.com/mostafa-saad/MyCompetitiveProgramming), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) trainees | Solutions with mini-editorials for many problems, including UVA/SPOJ/IOI/Olympiad problems |
 | ★★☆ | [OI Wiki (Competitive Programming) (Chinese)](https://oi-wiki.org/) | OI Wiki is committed to being a free and open continuously updated programming competition (competitive programming) knowledge integration site. This wiki is a sort of companion or guide for the competitive programmer who's trying to learn something |
 
 
@@ -99,13 +99,13 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [Codechef's Indian Programming Camp](https://www.youtube.com/playlist?list=PLi0ZM-RCX5nsTc2Z6woHr5qoF6n3b-thO) | Video Lectures from [Codechef's Indian Programming Camp 2016](https://blog.codechef.com/2016/08/03/lectures-from-indian-coding-camp/). Lectures given by top competitive programmers like Sergey Kulik, Kevin Charles Atienza and Anudeep Nekkanti. Primarily focused on exploring these concepts by applying them to actual competitive contest problems. |
 | ★★☆ | [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/) | An awesome course taught by [Bjarki Ágúst Guðmundsson (SuprDewd)](https://algo.is). These lectures feature neat slides and a nice list of problems to practice. |
 | ★★☆ | [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014) | A course on basic topics featuring good lecture slides. |
-| ★☆☆ | [Materials (English)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) from [Arabic Competitive Programming YouTube Channel](https://www.youtube.com/user/nobody123497) | Some materials (slides & source codes) covering a broad range of algorithmic topics by Mostafa Saad Ibrahim. |
+| ★☆☆ | <code>&nbsp;&nbsp;&nbsp;945</code> ![](https://img.shields.io/github/last-commit/mostafa-saad/ArabicCompetitiveProgramming) [Materials (English)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) from [Arabic Competitive Programming YouTube Channel](https://www.youtube.com/user/nobody123497) | Some materials (slides & source codes) covering a broad range of algorithmic topics by Mostafa Saad Ibrahim. |
 
 ### Open Courses for Algorithms and Data Structures
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★★ | [prakhar1989/awesome-courses#algorithms](https://github.com/prakhar1989/awesome-courses#algorithms) | A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.). |
+| ★★★ | <code>&nbsp;39864</code> ![](https://img.shields.io/github/last-commit/prakhar1989/awesome-courses#algorithms) [prakhar1989/awesome-courses#algorithms](https://github.com/prakhar1989/awesome-courses#algorithms) | A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.). |
 | ★★★ | [MIT SMA 5503: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) | Lectured by Prof. Charles Leiserson (one of the coauthors of Introduction to Algorithms) and Prof. Erik Demaine (a brilliant professor who has made remarkable breakthroughs in data science), the course offers great materials, accompanied by intuitive and comprehensive analyses. |
 | ★★☆ | [UIUC Algorithm Course](http://jeffe.cs.illinois.edu/teaching/algorithms/) | lecture notes, homeworks, exams, and discussion problems covering a broad range of algorithmic topics |
 
@@ -198,7 +198,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ★★★ | [Programming Contest Calendar - HackerRank](https://www.hackerrank.com/calendar) | Google Calendar export available |
 | ★★☆ | [clist.by](https://clist.by/) | API available for use |
 | ★★☆ | [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar) |  |
-| ★★☆ | [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/) |  |
+| ★★☆ | <code>&nbsp;&nbsp;&nbsp;341</code> ![](https://img.shields.io/github/last-commit/nishanthvijayan/CoderCalendar) [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/) |  |
 | ★★★ | [CodeHorizon](http://codehorizon.star-lord.me/): [iOS App](https://itunes.apple.com/in/app/codehorizon/id925056167?mt=8), [Android App](https://play.google.com/store/apps/details?id=com.chintanghate.CodeHorizon) |  |
 | ★★★ | [Competitive Programming Contests Calendar](https://competitiveprogramming.info/calendar) | Google Calendar export available |
 
@@ -227,13 +227,13 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★★ | [CodeLibrary](http://code-library.herokuapp.com/), by Andrey Naumenko (indy256) | CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository](https://github.com/indy256/codelibrary). |
-| ★★★ | [spaghetti-source/algorithm](https://github.com/spaghetti-source/algorithm), by Takanori MAEHARA (@tmaehara) | High-quality implementations of many hard algorithms and data structures. |
-| ★★★ | [kth-competitive-programming/kactl](https://github.com/kth-competitive-programming/kactl), by Simon Lindholm (simonlindholm) et al. | A phenomenally organized, documented and tested team notebook from KTH Royal Institute of Technology. One of the most well-crafted team notebooks (contest libraries) I've ever seen. | 
-| ★★☆ | [jaehyunp/stanfordacm](https://github.com/jaehyunp/stanfordacm) | Stanford's team notebook is well maintained and the codes within are of high-quality. |
-| ★★☆ | [ngthanhtrung23/ACM_Notebook_new](https://github.com/ngthanhtrung23/ACM_Notebook_new), by team RR Watameda (I_love_Hoang_Yen, flashmt, nguyenhungtam) from National University of Singapore | RR Watameda represented National University of Singapore for the 2016 ACM-ICPC World Finals. The items in this notebook are pretty standard and well-organized. | 
-| ★★☆ | [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University | bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms. |
-| ★☆☆ | [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell) | A notebook with some advanced data structures and algorithms including some from the China informatics scene. |
+| ★★★ | [CodeLibrary](http://code-library.herokuapp.com/), by Andrey Naumenko (indy256) | CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his <code>&nbsp;&nbsp;1644</code> ![](https://img.shields.io/github/last-commit/indy256/codelibrary) [GitHub Repository](https://github.com/indy256/codelibrary). |
+| ★★★ | <code>&nbsp;&nbsp;&nbsp;663</code> ![](https://img.shields.io/github/last-commit/spaghetti-source/algorithm) [spaghetti-source/algorithm](https://github.com/spaghetti-source/algorithm), by Takanori MAEHARA (@tmaehara) | High-quality implementations of many hard algorithms and data structures. |
+| ★★★ | <code>&nbsp;&nbsp;1608</code> ![](https://img.shields.io/github/last-commit/kth-competitive-programming/kactl) [kth-competitive-programming/kactl](https://github.com/kth-competitive-programming/kactl), by Simon Lindholm (simonlindholm) et al. | A phenomenally organized, documented and tested team notebook from KTH Royal Institute of Technology. One of the most well-crafted team notebooks (contest libraries) I've ever seen. | 
+| ★★☆ | <code>&nbsp;&nbsp;1459</code> ![](https://img.shields.io/github/last-commit/jaehyunp/stanfordacm) [jaehyunp/stanfordacm](https://github.com/jaehyunp/stanfordacm) | Stanford's team notebook is well maintained and the codes within are of high-quality. |
+| ★★☆ | <code>&nbsp;&nbsp;&nbsp;344</code> ![](https://img.shields.io/github/last-commit/ngthanhtrung23/ACM_Notebook_new) [ngthanhtrung23/ACM_Notebook_new](https://github.com/ngthanhtrung23/ACM_Notebook_new), by team RR Watameda (I_love_Hoang_Yen, flashmt, nguyenhungtam) from National University of Singapore | RR Watameda represented National University of Singapore for the 2016 ACM-ICPC World Finals. The items in this notebook are pretty standard and well-organized. | 
+| ★★☆ | <code>&nbsp;&nbsp;&nbsp;104</code> ![](https://img.shields.io/github/last-commit/bobogei81123/bcw_codebook) [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University | bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms. |
+| ★☆☆ | <code>&nbsp;&nbsp;&nbsp;157</code> ![](https://img.shields.io/github/last-commit/foreverbell/acm-icpc-cheat-sheet) [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell) | A notebook with some advanced data structures and algorithms including some from the China informatics scene. |
 | ★☆☆ | [igor's code archive](http://shygypsy.com/tools/), by Igor Naverniouk (Abednego) | A good notebook by Igor Naverniouk who is currently a software engineer at Google and part of the Google Code Jam team. |
 
 
@@ -290,8 +290,8 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [VisuAlgo](https://visualgo.net/en) | A website featuring a large collection of visualization tools for algorithms and data structures. |
-| ★★★ | General Practice Helpers: ... [CHelper](https://plugins.jetbrains.com/plugin/7091-chelper) (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... [caide](https://github.com/slycelote/caide) (Visual Studio, CodeLite, standalone command line app) ... [JHelper](http://codeforces.com/blog/entry/13369) (AppCode, CLion) [online-judge-tools](https://github.com/kmyk/online-judge-tools) (Stand alone CLI tool, It is actively maintained.) | Great tools that parse contests, inline library codes and provide testing frameworks. They save you from spending your precious time on switching windows and copy-pasting back and forth. |
-| ★★☆ | Codeforces Parsers: ... [Codeforces Parser](https://github.com/johnathan79717/codeforces-parser) ... [GoCF](https://github.com/sukeesh/GoCF) ... [cfparser](https://github.com/gnull/cfparser) (emacs) [cfparser](https://github.com/ikatanic/cfparser) (cli) | These tools parse Codeforces contest problems and help run sample tests. |
+| ★★★ | General Practice Helpers: ... [CHelper](https://plugins.jetbrains.com/plugin/7091-chelper) (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... <code>&nbsp;&nbsp;&nbsp;&nbsp;74</code> ![](https://img.shields.io/github/last-commit/slycelote/caide) [caide](https://github.com/slycelote/caide) (Visual Studio, CodeLite, standalone command line app) ... [JHelper](http://codeforces.com/blog/entry/13369) (AppCode, CLion) <code>&nbsp;&nbsp;&nbsp;699</code> ![](https://img.shields.io/github/last-commit/kmyk/online-judge-tools) [online-judge-tools](https://github.com/kmyk/online-judge-tools) (Stand alone CLI tool, It is actively maintained.) | Great tools that parse contests, inline library codes and provide testing frameworks. They save you from spending your precious time on switching windows and copy-pasting back and forth. |
+| ★★☆ | Codeforces Parsers: ... <code>&nbsp;&nbsp;&nbsp;128</code> ![](https://img.shields.io/github/last-commit/johnathan79717/codeforces-parser) [Codeforces Parser](https://github.com/johnathan79717/codeforces-parser) ... <code>&nbsp;&nbsp;&nbsp;&nbsp;48</code> ![](https://img.shields.io/github/last-commit/sukeesh/GoCF) [GoCF](https://github.com/sukeesh/GoCF) ... <code>&nbsp;&nbsp;&nbsp;&nbsp;16</code> ![](https://img.shields.io/github/last-commit/gnull/cfparser) [cfparser](https://github.com/gnull/cfparser) (emacs) <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3</code> ![](https://img.shields.io/github/last-commit/ikatanic/cfparser) [cfparser](https://github.com/ikatanic/cfparser) (cli) | These tools parse Codeforces contest problems and help run sample tests. |
 | ★★★ | [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/) | A stunning encyclopedia with a database of countless integer sequences. It also features a powerful search engine. Sometimes a seemingly difficult combinatorics problem could be equivalent to a simple or studied integer sequence. |
 | ★★☆ | Syntax Highlighters: ... [tohtml.com](https://tohtml.com/) ... [markup.su](http://markup.su/highlighter/) ... [hilite.me](http://hilite.me/) | Very handy for creating slides or team notebooks with pretty, formatted code snippets. Just copy the highlighted code snippets and paste them in your favorite WYSIWYG (What-You-See-Is-What-You-Get) editor! |
 | ★★☆ | Code Sharing: ... [Ideone.com](https://ideone.com/) ... [Pastebin.com](https://pastebin.com/) ... [Ubuntu Pastebin](https://paste.ubuntu.com/) | These tools generate semi-permanent pages for code sharing. Very useful especially when you're trying to get someone else to look into your code. |
@@ -304,7 +304,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | --- | --- | --- |
 | ★★★ | [polygon](https://polygon.codeforces.com/) | polygon provides a platform and a rich set of tools for professional contest preparation. ... An example: [Validators with testlib.h - Codeforces](http://codeforces.com/blog/entry/18426) |
 | ★★☆ | [Graph Editor](https://csacademy.com/app/graph_editor/) | A fantastic tool to create and visualize graphs. |
-| ★★☆ | [tcframe](https://github.com/ia-toki/tcframe) | A C++ framework for generating test cases of competitive programming problems. |
+| ★★☆ | <code>&nbsp;&nbsp;&nbsp;133</code> ![](https://img.shields.io/github/last-commit/ia-toki/tcframe) [tcframe](https://github.com/ia-toki/tcframe) | A C++ framework for generating test cases of competitive programming problems. |
 | ★★★ | [Virtual Judge (vjudge)](http://vjudge.net) | Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives. |
 | ★★☆ | [BNU Online Judge](https://www.bnuoj.com/v3/) | BNU Online Judge also allows users to create virtual contests. |
 | ★★☆ | [Kattis](https://open.kattis.com/) | Kattis assists in contest preparation (E-mail them for assistance). |
@@ -411,13 +411,13 @@ Learn helpful tips, tutorials and insights from these people :)
 | C++ Books | [The Definitive C++ Book Guide and List - Stack Overflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 | Java Books | [What are the best books to learn Java? - Quora](https://www.quora.com/What-are-the-best-books-to-learn-Java) |
 | Advanced Java Books | [What is the best book for advanced Java programming? - Quora](https://www.quora.com/What-is-the-best-book-for-advanced-Java-programming) |
-| Algorithms | [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) |
-| Algorithm Visualization | [enjalot/algovis](https://github.com/enjalot/algovis) |
-| Math | [rossant/awesome-math](https://github.com/rossant/awesome-math) |
-| C++ | [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) |
-| Java | [akullpp/awesome-java](https://github.com/akullpp/awesome-java) |
-| Courses | [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) |
-| Free Programming Books | [vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |
+| Algorithms | <code>&nbsp;11353</code> ![](https://img.shields.io/github/last-commit/tayllan/awesome-algorithms) [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) |
+| Algorithm Visualization | <code>&nbsp;&nbsp;1399</code> ![](https://img.shields.io/github/last-commit/enjalot/algovis) [enjalot/algovis](https://github.com/enjalot/algovis) |
+| Math | <code>&nbsp;&nbsp;5855</code> ![](https://img.shields.io/github/last-commit/rossant/awesome-math) [rossant/awesome-math](https://github.com/rossant/awesome-math) |
+| C++ | <code>&nbsp;36873</code> ![](https://img.shields.io/github/last-commit/fffaraz/awesome-cpp) [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) |
+| Java | <code>&nbsp;31854</code> ![](https://img.shields.io/github/last-commit/akullpp/awesome-java) [akullpp/awesome-java](https://github.com/akullpp/awesome-java) |
+| Courses | <code>&nbsp;39864</code> ![](https://img.shields.io/github/last-commit/prakhar1989/awesome-courses) [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) |
+| Free Programming Books | <code>230842</code> ![](https://img.shields.io/github/last-commit/EbookFoundation/free-programming-books) [vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |
 | Community-curated C++ Resources | [Hackr.io](https://hackr.io/tutorials/learn-c-plus-plus) |
 
 ### Interview Questions
@@ -425,7 +425,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | --- | --- |
 | [CareerCup](https://www.careercup.com) | The most popular website for software engineering interview preparation. | 
 | [InterviewBit](https://www.interviewbit.com) | Features intriguing and refreshing game-play designs which are designed to invoke one's interest in practicing. |
-| [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) | A curated list of awesome interview questions |
+| <code>&nbsp;45916</code> ![](https://img.shields.io/github/last-commit/MaximAbramchuck/awesome-interview-questions) [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) | A curated list of awesome interview questions |
 | [LeetCode](https://leetcode.com) | Well-organized website for software engineering interview preparation with best explanined solutions.  |
 
 
